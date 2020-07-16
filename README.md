@@ -1,11 +1,5 @@
+### A Simple Script To Check NordVPN Logins.
 
-    _   __               ___    ______  _   __
-   / | / /___  _________/ / |  / / __ \/ | / /
-  /  |/ / __ \/ ___/ __  /| | / / /_/ /  |/ / 
- / /|  / /_/ / /  / /_/ / | |/ / ____/ /|  /  
-/_/ |_/\____/_/   \__,_/  |___/_/   /_/ |_/   
-                                              
-                                                                                                                   
 # Requirements:
 1. NordVPN ( https://nordvpn.com/download/linux )
 2. Combo File [Email:Pass]
@@ -25,4 +19,3 @@ Note: It is recommended to place the "Combo File" inside the NordVPNChecker fold
 # Contact Me:
 Email: aabedhkhan@gmail.com
 Telegram: TheAabedKhan
-

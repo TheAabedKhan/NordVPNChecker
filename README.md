@@ -1,2 +1,0 @@
-# NordVPNChecker
-Check NordVPN logins

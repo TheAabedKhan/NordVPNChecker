@@ -14,4 +14,3 @@
 #### Note: --file can also be written as -f
 # Contact Me:
 Email: aabedhkhan@gmail.com
-Telegram: TheAabedKhan
